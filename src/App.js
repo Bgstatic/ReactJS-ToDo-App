@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Button, FormControl, InputLabel, Input } from '@material-ui/core';
-import './App.css';
+import './styles/App.css';
 import Todo from './components/Todo';
 import db from './firebase/firebase';
 import firebase from 'firebase';
