@@ -4,3 +4,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <h4> A small ToDo App made with ReactJS, Material-UI and Firebase for the backend </h4>
 
+## About the App 
+
