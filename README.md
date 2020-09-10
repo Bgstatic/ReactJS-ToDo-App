@@ -8,4 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## About the App 
 
-It is a small ToDo app you can add your todo's to the app and display it and edit todo's from the Editing Menu. At the same time it can also save your todo's to the **Real-Time Firebase Database**. Main purpose of the project is that become more familiar with **Firebase Databases** and **Google's Live Clouds**.  
+It is a small ToDo app you can add your todo's to the app and display it and edit todo's from the Editing Menu. At the same time it can also save your todo's to the **Real-Time Firebase Database**. Main purpose of the project is that become more familiar with **Firebase Databases** and **Google's Live Clouds**. 
+
+---
+
+## App ScrennShots
