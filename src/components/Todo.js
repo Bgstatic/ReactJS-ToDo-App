@@ -2,7 +2,6 @@ import React, { useState } from 'react'
 import db from '../firebase/firebase';
 import '../styles/Todo.css';
 import { Button, List, ListItem, ListItemText, ListItemAvatar, makeStyles, Input } from '@material-ui/core';
-import DeleteOutlineIcon from '@material-ui/icons/DeleteOutline';
 import Modal from '@material-ui/core/Modal';
 
 const useStyles = makeStyles((theme) => ({
