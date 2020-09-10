@@ -26,9 +26,8 @@ It is a small ToDo app you can add your todo's to the app and display it and edi
 
 ---
 
-#### Powered By
+## Powered By: [Firebase](https://firebase.google.com/?gclid=CjwKCAjwnef6BRAgEiwAgv8mQUpjgCCS172e5Bed7t1-gK_uTjcdW2-82664JxnbI3Da6wHi0tKmWRoCqvoQAvD_BwE) ##
 
-[Firebase](https://firebase.google.com/?gclid=CjwKCAjwnef6BRAgEiwAgv8mQUpjgCCS172e5Bed7t1-gK_uTjcdW2-82664JxnbI3Da6wHi0tKmWRoCqvoQAvD_BwE)
 
 ![Firebase](https://i.ytimg.com/vi/fgT6r4f9Apc/maxresdefault.jpg)
 
