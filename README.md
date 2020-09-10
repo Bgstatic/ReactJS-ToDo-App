@@ -16,11 +16,11 @@ It is a small ToDo app you can add your todo's to the app and display it and edi
 
 * <h4> Main Page </h4>
   
-  ![MainPage](https://github.com/Bgstatic/ReactJS-Spotify-Clone/blob/master/readme/MainPage.png)
+  ![MainPage](https://github.com/Bgstatic/ReactJS-Firebase-ToDo-App/blob/master/readme/MainPage.png)
   
 ---
 
 * <h4> Edit Page </h4>
 
-![EditPage](https://github.com/Bgstatic/ReactJS-Spotify-Clone/blob/master/readme/EditPage.png)
+![EditPage](https://github.com/Bgstatic/ReactJS-Firebase-ToDo-App/blob/master/readme/EditPage.png)
 
