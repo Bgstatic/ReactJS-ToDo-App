@@ -12,4 +12,4 @@ It is a small ToDo app you can add your todo's to the app and display it and edi
 
 ---
 
-## App ScrennShots
+## App ScreenShots
