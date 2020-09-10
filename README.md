@@ -2,3 +2,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # ReactJS-Firebase-ToDo-App
 
+<h4> A small ToDo App made with ReactJS, Material-UI and Firebase for the backend </h4>
+
